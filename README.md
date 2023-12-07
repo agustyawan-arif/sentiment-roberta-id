@@ -4,10 +4,8 @@ This repository contains code for training a sentiment analysis model using the 
 
 ![Space Simulation](assets/spaces_simulation.gif)
 
-<center>
 [![Model Card](https://img.shields.io/badge/Hugging%20Face-Model%20Card-blueviolet)](https://huggingface.co/arifagustyawan/sentiment-roberta-id)
 [![Space](https://img.shields.io/badge/Hugging%20Face-Space-blue)](https://huggingface.co/spaces/arifagustyawan/sentiment-roberta-id)
-</center>
 
 ## Setup
 
