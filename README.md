@@ -32,6 +32,8 @@ python inference.py
 
 This script allows you to interactively enter text for sentiment analysis, providing the predicted sentiment label and confidence score. Change `model_name` in line 22 to your model name if you have trained your own model
 
+![Inference Preview](assets/cli_inference.gif)
+
 ## Configuration
 
 The training and model configuration are specified in the `config.conf` file. Modify this file to adjust training parameters, output directories, and other settings.
